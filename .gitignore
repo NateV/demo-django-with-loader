@@ -1,0 +1,7 @@
+.env
+.webpack-stats.json
+*.pyc
+node_modules
+.vscode
+*.sqlite3
+bundles
